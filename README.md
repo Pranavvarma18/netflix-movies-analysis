@@ -55,29 +55,6 @@ The dataset was inspected and cleaned before performing the analysis.
 - Git
 - GitHub
 
-## Project Structure
-
-```text
-netflix-movies-analysis/
-│
-├── data/
-│   └── netflix_titles.csv
-│
-├── notebooks/
-│   └── netflix_movies_analysis.ipynb
-│
-├── images/
-│   ├── genre_distribution.png
-│   ├── top_countries.png
-│   ├── movies_by_year.png
-│   ├── rating_distribution.png
-│   └── duration_distribution.png
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-
-
 ## Data Cleaning
 
 The dataset was cleaned before analysis.
@@ -165,3 +142,27 @@ pip install -r requirements.txt
 ###7. Open the analysis notebook
 
 notebooks/netflix_movies_analysis.ipynb
+
+## Project Structure
+
+```text
+netflix-movies-analysis/
+│
+├── data/
+│   └── netflix_titles.csv
+│
+├── notebooks/
+│   └── netflix_movies_analysis.ipynb
+│
+├── images/
+│   ├── genre_distribution.png
+│   ├── top_countries.png
+│   ├── movies_by_year.png
+│   ├── rating_distribution.png
+│   └── duration_distribution.png
+│
+├── README.md
+├── requirements.txt
+└── .gitignore
+
+
