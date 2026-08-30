@@ -84,7 +84,7 @@ The major preprocessing steps included:
 
 ### Top Countries
 
-![Top Countries](images/countries_movies.png)
+![Top Countries](images/coutries_movies.png)
 
 ## Key Insights
 
